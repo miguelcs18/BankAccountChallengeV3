@@ -9,6 +9,19 @@ public class BankAccount {
 
  public void deposit(double quantity){
      this.balance += quantity;
+     System.out.println("Deposit of " + quantity + "  done correctly. Now you have " + this.balance +
+             " in you account");
+ }
+
+ public void withdraw(double quantity){
+     if(this.balance - quantity < 0){
+         System.out.println("The withdrawal could not be done, you have " + this.balance + " in your account");
+     }
+     else{
+         this.balance -= quantity;
+         System.out.println("Withdrawal of " + quantity + " done correctly. Now you have " + this.balance
+                 + " in you balance ");
+     }
  }
 
     public String getNumber() {
