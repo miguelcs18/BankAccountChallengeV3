@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Add deposit method">
-      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" afterDir="false" />
+    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Add withdraw method and print messages for deposit and withdraw methods">
+      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659744691701</updated>
       <workItem from="1659744694393" duration="347000" />
-      <workItem from="1659902536909" duration="1244000" />
+      <workItem from="1659902536909" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the main class and method">
       <created>1659744814795</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659903298205</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add withdraw method and print messages for deposit and withdraw methods">
+      <created>1659903826995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659903826996</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +139,7 @@
     <MESSAGE value="Add class fields" />
     <MESSAGE value="Add class getters and setters" />
     <MESSAGE value="Add deposit method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add deposit method" />
+    <MESSAGE value="Add withdraw method and print messages for deposit and withdraw methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add withdraw method and print messages for deposit and withdraw methods" />
   </component>
 </project>
