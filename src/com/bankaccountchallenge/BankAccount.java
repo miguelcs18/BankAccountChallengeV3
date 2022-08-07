@@ -7,6 +7,9 @@ public class BankAccount {
  private String email;
  private String phoneNumber;
 
+ public void deposit(double quantity){
+     this.balance += quantity;
+ }
 
     public String getNumber() {
         return number;

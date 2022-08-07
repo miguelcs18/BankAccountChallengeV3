@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Add class fields">
+    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Add class getters and setters">
       <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659744691701</updated>
       <workItem from="1659744694393" duration="347000" />
-      <workItem from="1659902536909" duration="423000" />
+      <workItem from="1659902536909" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the main class and method">
       <created>1659744814795</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659902904033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add class getters and setters">
+      <created>1659902976778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659902976779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
     <MESSAGE value="Creating the main class and method" />
     <MESSAGE value="Create BankAccount class" />
     <MESSAGE value="Add class fields" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class fields" />
+    <MESSAGE value="Add class getters and setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class getters and setters" />
   </component>
 </project>
