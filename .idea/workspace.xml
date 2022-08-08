@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Create default constructor and default parameters" />
+    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Class VipCustomer">
+      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/VipCustomer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659744691701</updated>
       <workItem from="1659744694393" duration="347000" />
-      <workItem from="1659902536909" duration="4278000" />
+      <workItem from="1659902536909" duration="4654000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the main class and method">
       <created>1659744814795</created>
@@ -149,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659931368356</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Class VipCustomer">
+      <created>1659932074404</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659932074404</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Class VipCustomer">
+      <created>1659932152438</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659932152439</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +194,7 @@
     <MESSAGE value="Set parameters to all args constructor" />
     <MESSAGE value="Uncomment test data" />
     <MESSAGE value="Create default constructor and default parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create default constructor and default parameters" />
+    <MESSAGE value="Class VipCustomer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class VipCustomer" />
   </component>
 </project>
