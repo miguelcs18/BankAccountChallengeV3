@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Add test data to test deposits and withdraws">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" afterDir="false" />
+    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="All args constructor to BankAccount">
+      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659744691701</updated>
       <workItem from="1659744694393" duration="347000" />
-      <workItem from="1659902536909" duration="2274000" />
+      <workItem from="1659902536909" duration="2846000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the main class and method">
       <created>1659744814795</created>
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659904319391</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All args constructor to BankAccount">
+      <created>1659930225503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659930225503</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +155,7 @@
     <MESSAGE value="Add deposit method" />
     <MESSAGE value="Add withdraw method and print messages for deposit and withdraw methods" />
     <MESSAGE value="Add test data to test deposits and withdraws" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test data to test deposits and withdraws" />
+    <MESSAGE value="All args constructor to BankAccount" />
+    <option name="LAST_COMMIT_MESSAGE" value="All args constructor to BankAccount" />
   </component>
 </project>
