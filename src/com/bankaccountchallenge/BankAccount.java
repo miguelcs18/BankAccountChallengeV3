@@ -7,7 +7,16 @@ public class BankAccount {
  private String email;
  private String phoneNumber;
 
- public void deposit(double quantity){
+
+    public BankAccount(String number, double balance, String customerName, String email, String phoneNumber) {
+        this.number = number;
+        this.balance = balance;
+        this.customerName = customerName;
+        this.email = email;
+        this.phoneNumber = phoneNumber;
+    }
+
+    public void deposit(double quantity){
      this.balance += quantity;
      System.out.println("Deposit of " + quantity + "  done correctly. Now you have " + this.balance +
              " in you account");
