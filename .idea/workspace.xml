@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Empty constructor added">
+    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Getters added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/VipCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659744691701</updated>
       <workItem from="1659744694393" duration="347000" />
-      <workItem from="1659902536909" duration="5616000" />
+      <workItem from="1659902536909" duration="6258000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the main class and method">
       <created>1659744814795</created>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659932692107</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Getters added">
+      <created>1659933648669</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659933648669</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +211,8 @@
     <MESSAGE value="Create default constructor and default parameters" />
     <MESSAGE value="Class VipCustomer" />
     <MESSAGE value="Empty constructor added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Empty constructor added" />
+    <MESSAGE value="Add no args constructor, two args constructor and all args constructor" />
+    <MESSAGE value="Getters added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getters added" />
   </component>
 </project>

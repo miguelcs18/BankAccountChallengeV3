@@ -13,5 +13,15 @@ public class Main {
 
         miguelAccount.deposit(51.0);
         miguelAccount.withdraw(100);
+
+        VipCustomer customer1 = new VipCustomer();
+        System.out.println("customer1 = " + customer1.getName());
+
+        VipCustomer customer2 = new VipCustomer("mike",25000.0);
+        System.out.println("customer2 = " + customer2.getName());
+
+        VipCustomer customer3 = new VipCustomer("Bart",100.0,"bart@email.com");
+        System.out.println("customer3 = " + customer3.getName());
+        System.out.println("customer3 email = " + customer3.getEmail());
     }
 }
