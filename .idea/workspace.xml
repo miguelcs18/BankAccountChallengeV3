@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Set parameters to all args constructor">
-      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/Main.java" afterDir="false" />
+    <list default="true" id="aa24fcfb-ce6f-466d-8fa4-6d8972a1aa0b" name="Changes" comment="Uncomment test data">
+      <change beforePath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankaccountchallenge/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659744691701</updated>
       <workItem from="1659744694393" duration="347000" />
-      <workItem from="1659902536909" duration="3216000" />
+      <workItem from="1659902536909" duration="3585000" />
     </task>
     <task id="LOCAL-00001" summary="Creating the main class and method">
       <created>1659744814795</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659930653153</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Uncomment test data">
+      <created>1659931017074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659931017074</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="Add test data to test deposits and withdraws" />
     <MESSAGE value="All args constructor to BankAccount" />
     <MESSAGE value="Set parameters to all args constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set parameters to all args constructor" />
+    <MESSAGE value="Uncomment test data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uncomment test data" />
   </component>
 </project>

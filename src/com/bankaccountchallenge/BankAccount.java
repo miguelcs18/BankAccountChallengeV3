@@ -7,6 +7,9 @@ public class BankAccount {
  private String email;
  private String phoneNumber;
 
+    public BankAccount() {
+        this("11111",2.50,"Default name","Defaul email","999-999-999");
+    }
 
     public BankAccount(String number, double balance, String customerName, String email, String phoneNumber) {
         this.number = number;
